@@ -713,3 +713,22 @@ PawScan AI 这类工具型产品，已经出现了比较清晰的竞品分层：
 如果只保留一句判断：
 
 > **工具型 AI 宠物症状初筛产品的核心竞争，不再只是功能竞争，而是“同样的症状入口，最后把用户导向哪种收入模型”的竞争。**
+
+---
+
+## 12. 竞品 App Store 链接附录
+
+为方便后续继续调研和直接打开产品页面，以下附上本报告提到竞品的 App Store 链接；  
+若未检索到独立 iOS App，则标注为**网页工具**或**平台内网页功能**。
+
+| 竞品 | App Store 链接 | 说明 |
+| --- | --- | --- |
+| **PawScan AI** | https://apps.apple.com/il/app/pawscan-ai/id6755793400 | 当前检索到的是 **非美国区 App Store 页面**；同时有网页入口：https://pawscanai.com/ |
+| **PawBud AI** | 未检索到独立 App Store App | 当前主要以网页工具形式提供服务：https://scan.getpawbud.com/ |
+| **PawHealth AI** | https://apps.apple.com/us/app/pawhealth-ai/id6754784386 | 美国区 App Store 页面 |
+| **Vet AI** | https://apps.apple.com/us/app/vet-ai-ai-dog-health-scan/id6741888140 | 美国区 App Store 页面 |
+| **Petriage** | https://apps.apple.com/us/app/petriage/id1292357770 | 美国区 App Store 页面 |
+| **PetMD Symptom Checker** | 无独立 App Store 链接 | 当前主要为网页功能入口：https://www.petmd.com/symptom-checker |
+| **Chewy App** | https://apps.apple.com/us/app/chewy-where-pet-lovers-shop/id1149449468 | PetMD / Symptom Checker 所属平台的 iOS App |
+
+> 补充说明：若后续继续扩展“工具型 AI 症状初筛”竞品池，可以额外观察 **Buddydoc**，其 App Store 页面为：https://apps.apple.com/us/app/buddydoc-pet-symptom-checker/id1631057656
